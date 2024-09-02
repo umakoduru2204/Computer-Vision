@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "fromarray",
+        "imgtk",
+        "imread",
+        "imshow",
+        "mediapipe",
+        "padx",
+        "pady",
+        "pyautogui",
+        "volumedown",
+        "volumeup",
+        "waitkey"
+    ]
+}

@@ -1,0 +1,12 @@
+COMPUTER VISION
+
+display image - imshow
+read image - imread
+getRotationMatrix(center, angle,scale)
+wrapaffine
+GuassianBlur - blur image
+threshold - b/w
+canny - edge
+cvtcolor(image, BGR2GRAY)
+Object detection - yolo, ssd , foster-r cnn
+isopened , read - video operations
